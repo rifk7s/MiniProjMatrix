@@ -56,4 +56,5 @@ matriks = input_matriks(ukuran, ukuran, "A")
 determinant = getDet(matriks, ukuran)
 
 # Cetak hasil
-print(f"Determinan matriks tersebut adalah: {determinant}")
+print(f"Determinan matriks tersebut adalah: {determinant}") 
+
