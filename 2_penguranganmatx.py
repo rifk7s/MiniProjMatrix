@@ -28,4 +28,5 @@ for i in range(baris):
 # Cetak hasil
 print("\nMatriks Hasil:")
 for r in hasil:
-    print(r)
+    print(r) 
+    
