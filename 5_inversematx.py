@@ -83,4 +83,5 @@ if invers is None:
 else:
     print("\nInvers matriksnya adalah:")
     for baris in invers:
-        print(" ".join(f"{val:.2f}" for val in baris))
+        print(" ".join(f"{val:.2f}" for val in baris)) 
+        
