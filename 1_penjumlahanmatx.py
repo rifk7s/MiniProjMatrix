@@ -29,3 +29,5 @@ for i in range(baris):
 print("\nMatriks Hasil:")
 for r in hasil:
     print(r)
+ 
+ 
