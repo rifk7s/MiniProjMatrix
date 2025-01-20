@@ -24,3 +24,6 @@ elif ch == 4:
     os.system("py .dist/4_determinan.py")
 else:
     os.system("py .dist/5_inverse.py")
+  
+
+  
