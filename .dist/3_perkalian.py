@@ -54,7 +54,7 @@ while True:
             if ag == 1:
                 continue
                 # 
-                
+
                 break
             elif ag == 2:
                 break  # Keluar dari program
@@ -78,3 +78,5 @@ while True:
                 print('Pilihan tidak valid, pilih 1 atau 2.')  # Menangani input yang di luar pilihan
         except ValueError:
             print('Input tidak valid. Harap masukkan angka (1 atau 2).')  # Menangani input bukan angka
+ 
+ 
