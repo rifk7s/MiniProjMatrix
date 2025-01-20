@@ -130,4 +130,7 @@ while True:
             else:
                 print('Pilihan tidak valid, harap pilih 1 atau 2.')  # Tangani input di luar jangkauan
         except ValueError:
-            print('Input tidak valid. Harap masukkan angka (1 atau 2).')  # Tangani input bukan angka
+            print('Input tidak valid. Harap masukkan angka (1 atau 2).')  # Tangani input bukan angka  
+
+
+            
